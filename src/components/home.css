@@ -1,0 +1,29 @@
+.main-pane {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.left-pane,
+.right-pane {
+  width: 20%;
+  padding: 20px;
+}
+.center-pane {
+  flex: 1;
+  padding: 20px;
+}
+.stage6 {
+  position: absolute;
+  color: #f0f0f0;
+  top: 70%;
+  left: 73%;
+  width: 150px;
+}

@@ -1,0 +1,22 @@
+.forTheEaster {
+  position: relative;
+  left: 50%;
+  top: 10%;
+  transform: translate(-50%, 0);
+}
+.gift1 {
+  position: relative;
+  left: 5%;
+  top: 1%;
+}
+.gift2 {
+  position: relative;
+  left: 0;
+  top: 18%;
+}
+.gift3 {
+  position: relative;
+  left: 22%;
+  top: 16%;
+  transform: rotate(45deg);
+}
